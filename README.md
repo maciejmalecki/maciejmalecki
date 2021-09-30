@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+There are plenty of stuff you can find in my repos:
+
+* I do some MOS 6502 Assembly coding here: [trex64](https://github.com/maciejmalecki/trex64), [bluevessel](https://github.com/maciejmalecki/bluevessel); but vast majority of my work can be found in [c64lib](https://github.com/c64lib) organization.
+* There are some slidedecks from presentations I made.
+* I also do some IoT devices based on ESP 8266 such as [weather](https://github.com/maciejmalecki/weather) or [ESP 8266 programmer](https://github.com/maciejmalecki/esp8266-programmer).
+
+There is also this very lame and not updated [blog](https://maciejmalecki.github.io/blog/).
+
 <!--
 **maciejmalecki/maciejmalecki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
