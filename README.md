@@ -3,6 +3,7 @@
 There are plenty of stuff you can find in my repos:
 
 * I do some MOS 6502 Assembly coding here: [trex64](https://github.com/maciejmalecki/trex64), [bluevessel](https://github.com/maciejmalecki/bluevessel); but vast majority of my work can be found in [c64lib](https://github.com/c64lib) organization.
+* The T-Rex64 game has its webpage: https://maciejmalecki.github.io/trex64/
 * There's also a gradle [plugin](https://github.com/c64lib/gradle-retro-assembler-plugin) supporting Assembly coding with [Kick Assembler](http://theweb.dk/KickAssembler). There is an online [manual](https://c64lib.github.io/gradle-retro-assembler-plugin/) as well.
 * There are some slidedecks from presentations I made.
 * I also do some IoT devices based on ESP 8266 such as [weather](https://github.com/maciejmalecki/weather) or [ESP 8266 programmer](https://github.com/maciejmalecki/esp8266-programmer).
