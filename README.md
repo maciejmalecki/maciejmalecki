@@ -3,7 +3,7 @@
 There are plenty of stuff you can find in my repos:
 
 * I do some MOS 6502 Assembly coding here: [trex64](https://github.com/maciejmalecki/trex64), [bluevessel](https://github.com/maciejmalecki/bluevessel); but vast majority of my work can be found in [c64lib](https://github.com/c64lib) organization.
-* The T-Rex64 game has its own webpage: https://maciejmalecki.github.io/trex64/.
+* The T-Rex64 game has its own webpage: https://maciejmalecki.itch.io/trex64/.
 * There's also a gradle [plugin](https://github.com/c64lib/gradle-retro-assembler-plugin) supporting Assembly coding with [Kick Assembler](http://theweb.dk/KickAssembler). There is an online [manual](https://c64lib.github.io/gradle-retro-assembler-plugin/) as well.
 * There are some slidedecks from presentations I made: [Retro Build tool (from Commodore Users Europe, 18th Dec, 2021)](https://maciejmalecki.github.io/retro-build-tool-slides/), [to JPA or not](https://maciejmalecki.github.io/to-jpa-or-not/), [how does it work](https://maciejmalecki.github.io/how-does-it-work/), [IT archeology](https://maciejmalecki.github.io/it-archeology/), [free your mind with JDBI](https://maciejmalecki.github.io/jdbi-slides/), [IoT smart gardener](https://maciejmalecki.github.io/gardener-slides/).
 * Videos from presentations: [Retro Build tool (from Commodore Users Europe, 18th Dec, 2021)](https://youtu.be/BsaqSpI21Vk).
