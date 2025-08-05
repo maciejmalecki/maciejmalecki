@@ -11,7 +11,7 @@ There are plenty of stuff you can find in my repos:
 * Videos from presentations: [Retro Build tool (from Commodore Users Europe, 18th Dec, 2021)](https://youtu.be/BsaqSpI21Vk).
 * I also do some IoT devices based on ESP 8266 such as [weather](https://github.com/maciejmalecki/weather) or [ESP 8266 programmer](https://github.com/maciejmalecki/esp8266-programmer).
 
-There is also this very lame and not-that-frequently-updated [blog](https://maciejmalecki.github.io/blog/).
+There is also this very lame and not-that-frequently-updated [blog](https://maciejmalecki.github.io/).
 
 <!--
 **maciejmalecki/maciejmalecki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
