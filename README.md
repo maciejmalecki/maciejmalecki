@@ -4,6 +4,7 @@ There are plenty of stuff you can find in my repos:
 
 * I do some MOS 6502 Assembly coding here: [trex64](https://github.com/maciejmalecki/trex64), [bluevessel](https://github.com/maciejmalecki/bluevessel); but vast majority of my work can be found in [c64lib](https://github.com/c64lib) organization.
 * I am a coder of Tony: Born for Adventure https://monochrome-productions.itch.io/tony/ (see sources here: https://github.com/maciejmalecki/tony-demo).
+* Slides from Retrosfera vol.7 [here](https://maciejmalecki.github.io/retrosfera7/)
 * Slides from Commodore Users Europe December 2024 edition [here](https://maciejmalecki.github.io/tony-cue2024/)
 * The T-Rex64 game has its own webpage: https://maciejmalecki.itch.io/trex64/.
 * There's also a gradle [plugin](https://github.com/c64lib/gradle-retro-assembler-plugin) supporting Assembly coding with [Kick Assembler](http://theweb.dk/KickAssembler). There is an online [manual](https://c64lib.github.io/gradle-retro-assembler-plugin/) as well.
